@@ -1,4 +1,4 @@
-class promptset{
+class Calculator{
       var x = prompt("enter a number:");
       let a : number = parseInt(x)
       let y = prompt("enter another number:");
